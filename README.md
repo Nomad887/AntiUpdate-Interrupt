@@ -49,7 +49,7 @@ Minutes / Hours mode (!!!Только для теста!!!):
 
 вылезет вот такое окно: <img width="478" height="369" alt="image" src="https://github.com/user-attachments/assets/621e1f8f-0f7a-4803-8ac5-7e1932c290ca" />
 
-сделать так: <img width="333" height="79" alt="image" src="https://github.com/user-attachments/assets/1fbd2b59-407d-4603-8823-78885b752b0c" />
+сделать так (убрать галочку): <img width="333" height="79" alt="image" src="https://github.com/user-attachments/assets/1fbd2b59-407d-4603-8823-78885b752b0c" />
 
 дальше вылезет терминал, на него кликнуть и нажать любую кнопку.
 
